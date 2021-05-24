@@ -1,5 +1,4 @@
 branch from satyam
-<<<<<<< HEAD
 
 another branch from satyam
 
@@ -7,13 +6,13 @@ from branch neha
 
 again changing from satyam
 
-<<<<<<< HEAD
+
 
 again changing from satyam(hello)
 
 
 
-=======
+
 another branch from satyam
 another branch from lakshmibathy
->>>>>>> 6228d6c068e345215466b67493a63a806cf50db5
+
