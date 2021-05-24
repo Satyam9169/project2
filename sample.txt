@@ -4,12 +4,10 @@ another branch from satyam
 
 from branch neha
 
-<<<<<<< HEAD
-
 again changing from satyam
 
-=======
+
 again changing from satyam(hello)
->>>>>>> satyam
+
 
 
