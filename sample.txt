@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 branch from satyam
 
 another branch from satyam
@@ -20,7 +20,7 @@ again changing from satyam(hello-> hyy)
 another branch from satyam
 another branch from lakshmibathy
 
-=======
-
 branch added from jayesh
->>>>>>> jayesh
+branch added from dibakar
+
+
