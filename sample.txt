@@ -1,5 +1,4 @@
 branch from satyam
-<<<<<<< HEAD
 
 another branch from satyam
 
